@@ -1,4 +1,4 @@
-# Healthcare-Analysis-Project (Excel | Power BI | Tableau)
+# Healthcare-Analysis-Project (Power BI | Tableau)
 
 This project presents a comprehensive Healthcare Analysis Dashboard for Axon Healthcare, focusing on doctor performance, patient demographics, treatment status, billing insights, and hospital operations.
 
@@ -40,8 +40,7 @@ It transforms raw healthcare data into meaningful insights through interactive d
 ---
 
 ## 🛠 Tools & Techniques Used
-
-- Microsoft Excel (Data Cleaning & Preparation)  
+ 
 - Power BI (Data Modeling & Dashboard Design)  
 - Tableau (Advanced Visualizations)  
 
