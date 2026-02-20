@@ -9,7 +9,6 @@ The goal of this project is to analyze hospital data and provide actionable insi
 👩‍⚕️ Patient’s Dashboard
 
 It covers:
-
 📊 Total Doctors & Patients
 📈 Average Experience & Treatment Cost
 🧾 Billing by Department
