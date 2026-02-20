@@ -17,7 +17,7 @@ It covers:
 🧍 Patient Demographics (Age, Gender, Blood Group)
 🌍 Geographic Distribution of Patients
 
-🧠 Key Features
+🧠 Key Features:
 ✅ KPI cards for quick performance overview
 ✅ Doctor specialty and experience analysis
 ✅ Patient age group and disease analysis
